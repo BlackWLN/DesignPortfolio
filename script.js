@@ -235,7 +235,7 @@ function openLightbox(i){
         y.target = '_blank';
         y.rel = 'noopener';
         y.className = 'lb-wiki-link';
-        y.textContent = 'Скачать на Яндекс.Диске ↗';
+        y.textContent = 'Скачать с Яндекс.Диска ↗';
         actions.appendChild(y);
       }
       if (p.wikiUrl) {
